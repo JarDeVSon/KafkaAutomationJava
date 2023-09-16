@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "name": "nome",
+      "type": [
+        "string"
+      ]
+    },
+    {
+      "name": "email",
+      "type": [
+        "string"
+      ]
+    },
+    {
+      "name": "age",
+      "type": [
+        "string"
+      ]
+    }
+  ],
+  "name": "UserAvro",
+  "namespace": "modelAvro.user",
+  "type": "record",
+}
